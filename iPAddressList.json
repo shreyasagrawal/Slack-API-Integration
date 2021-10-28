@@ -1,0 +1,28 @@
+//JSON file containing the IP address to be pinged and its respective webhook
+
+[
+    {
+        "IpAddress": "192.168.0.154",
+        "Webhook": "https://hooks.slack.com/services/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"
+    },
+    {
+        "IpAddress": "192.168.0.153",
+        "Webhook": "https://hooks.slack.com/services/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"
+    },
+    {
+        "IpAddress": "192.168.0.144",
+        "Webhook": "https://hooks.slack.com/services/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"
+    },
+    {
+        "IpAddress": "192.168.0.137",
+        "Webhook": "https://hooks.slack.com/services/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"
+    },
+    {
+        "IpAddress": "192.168.0.141",
+        "Webhook": "https://hooks.slack.com/services/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"
+    },
+    {
+        "IpAddress": "116.90.234.198",
+        "Webhook": "https://hooks.slack.com/services/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"
+    }
+]
